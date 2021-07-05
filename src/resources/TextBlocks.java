@@ -4,13 +4,13 @@ public class TextBlocks {
 
 	public static void main(String[] args) {
 		
-		String html = """ 
-				<html>
-					<div>
-						<h1>Text block</h1>
-					</div>
-				</html>
-				""";
+//		String html = """ 
+//				<html>
+//					<div>
+//						<h1>Text block</h1>
+//					</div>
+//				</html>
+//				""";
 		
 //		System.out.println(html);
 		
@@ -18,8 +18,15 @@ public class TextBlocks {
 //		String a2 = "abc";
 //		String b1 = new String("abc");
 //		System.out.println(a1.equals(b1));
-		StringBuilder str = new StringBuilder();
-		System.out.println(str);
+//		StringBuilder str = new StringBuilder();
+//		System.out.println(str);
+		
+//		
+		
+		Integer i = 10;
+		i++;
+
+
 
 	}
 
