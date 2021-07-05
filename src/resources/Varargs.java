@@ -8,7 +8,15 @@ public class Varargs {
 		
 //		imprimir("a");
 //		imprimir("a", "b", "c");
-		imprimir(arr);
+//		imprimir(arr);
+		
+		int[][] array = new int[2][2];
+		
+		for(int i = 0; i < array.length; i++) {
+			for(int j = 0; j < array[0].length; j++) {
+				System.out.println(array[i][j]);
+			}
+		}
 
 	}
 	
