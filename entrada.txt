@@ -1,0 +1,6 @@
+arquivo de teste para leitura
+java io
+stream integer
+double float
+extends
+
